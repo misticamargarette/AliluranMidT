@@ -113,7 +113,7 @@ def search_student(student_ids, student_names, student_ages, student_grades):
         print("Student not found.")
         return
 
-    print("\nStudent Found")
+    print("Student Found")
     print(f"ID: {student_ids[index]}")
     print(f"Name: {student_names[index]}")
     print(f"Age: {student_ages[index]}")
